@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStayAwake", "ConsoleAppStayAwake\ConsoleAppStayAwake.csproj", "{6604E69B-074A-419C-AE2D-6088E62094AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6604E69B-074A-419C-AE2D-6088E62094AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6604E69B-074A-419C-AE2D-6088E62094AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6604E69B-074A-419C-AE2D-6088E62094AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6604E69B-074A-419C-AE2D-6088E62094AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B4D15F-C4FE-4CFE-943C-12C6E0E935D4}
+	EndGlobalSection
+EndGlobal
